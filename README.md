@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikasha Beherra</h1>
-<h3 align="center">A passionate Data Analysis</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashabeherra&label=Profile%20views&color=0e75b6&style=flat" alt="vikashabeherra" /> </p>
 
